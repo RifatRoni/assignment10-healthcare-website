@@ -1,0 +1,7 @@
+.booking-info-div{
+    display: flex;
+    align-items: center;
+}
+.booking-service-div {
+    background-color: #dcfbff;
+}

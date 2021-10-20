@@ -1,0 +1,17 @@
+.footer{
+    padding:20px;
+    background-color: #20BDD1;
+    color: white;
+}
+.social{
+    color:white;
+    margin-right: 0.5rem;
+}
+.social:hover{
+    color:#212529;
+}
+.footer-brand-name-span {
+    font-size: 1.5rem;
+    margin-top: 0.75rem;
+    display: inline-block;
+}

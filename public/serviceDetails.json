@@ -1,0 +1,95 @@
+{
+  "services": [
+		{
+			"serviceId": "1",
+			"serviceName": "Neuro Ophthalmology",
+			"doctorName": "Dr. Jolianr Acent",
+			"serviceDescription": "Neuro Ophthalmology Orbit & Oculoplasty is most cataracts develop slowly and don't disturb your eyesight early on. But with time, cataracts will eventually interfere with your vision. At first, stronger lighting and eyeglasses can help you deal with cataracts. But if impaired vision interferes with your usual activities, you might need cataract surgery. Fortunately, cataract surgery is generally a safe, effective procedure.",
+			"visitFee": 1000,
+			"image": "https://bdeyehospital.com/media/images/Neuro_Ophthalmology.jpg",
+			"key": 1
+		  },
+		  {
+			"serviceId": "2",
+			"serviceName": "Refractive Error",
+			"doctorName": "Dr. John Doe",
+			"serviceDescription": "Refractive Error is most cataracts develop slowly and don't disturb your eyesight early on. But with time, cataracts will eventually interfere with your vision. At first, stronger lighting and eyeglasses can help you deal with cataracts. But if impaired vision interferes with your usual activities, you might need cataract surgery. Fortunately, cataract surgery is generally a safe, effective procedure.",
+			"visitFee": 800,
+			"image": "https://bdeyehospital.com/media/images/refractive_error_icon.jpeg",
+			"key": 2
+		  },
+		  {
+			"serviceId": "3",
+			"serviceName": "Lasik",
+			"doctorName": "Dr. Ahsanul Haque",
+			"serviceDescription": "Lasik is most cataracts develop slowly and don't disturb your eyesight early on. But with time, cataracts will eventually interfere with your vision. At first, stronger lighting and eyeglasses can help you deal with cataracts. But if impaired vision interferes with your usual activities, you might need cataract surgery. Fortunately, cataract surgery is generally a safe, effective procedure.",
+			"visitFee": 700,
+			"image": "https://bdeyehospital.com/media/images/Lasik_icon.jpg",
+			"key": 3
+		  },
+		  {
+			"serviceId": "4",
+			"serviceName": "Orbit & Oculoplasty",
+			"doctorName": "Dr. Azaz Ahmed",
+			"serviceDescription": "Orbit & Oculoplasty is most cataracts develop slowly and don't disturb your eyesight early on. But with time, cataracts will eventually interfere with your vision. At first, stronger lighting and eyeglasses can help you deal with cataracts. But if impaired vision interferes with your usual activities, you might need cataract surgery. Fortunately, cataract surgery is generally a safe, effective procedure.",
+			"visitFee": 800,
+			"image": "https://bdeyehospital.com/media/images/Orbit__Oculoplasty.jpg",
+			"key": 4
+		  },
+		  {
+			"serviceId": "5",
+			"serviceName": "Uveitis",
+			"doctorName": "Dr. Kamruzzaman Haque",
+			"serviceDescription": "Uveitis is most cataracts develop slowly and don't disturb your eyesight early on. But with time, cataracts will eventually interfere with your vision. At first, stronger lighting and eyeglasses can help you deal with cataracts. But if impaired vision interferes with your usual activities, you might need cataract surgery. Fortunately, cataract surgery is generally a safe, effective procedure.",
+			"visitFee": 1200,
+			"image": "https://bdeyehospital.com/media/images/4067-Uveitis-642x361-anterior_uveitis_slide1.jpg",
+			"key": 5
+		  },
+		  {
+			"serviceId": "6",
+			"serviceName": "Cornea",
+			"doctorName": "Dr. Luise Alen",
+			"serviceDescription": "Cornea is most cataracts develop slowly and don't disturb your eyesight early on. But with time, cataracts will eventually interfere with your vision. At first, stronger lighting and eyeglasses can help you deal with cataracts. But if impaired vision interferes with your usual activities, you might need cataract surgery. Fortunately, cataract surgery is generally a safe, effective procedure. lorem30",
+			"visitFee": 500,
+			"image": "https://bdeyehospital.com/media/images/bbb.png",
+			"key": 6
+		  },
+		  {
+			"serviceId": "7",
+			"serviceName": "Glaucoma",
+			"doctorName": "Dr. Ahemd Sofa",
+			"serviceDescription": "Glaucoma is most cataracts develop slowly and don't disturb your eyesight early on. But with time, cataracts will eventually interfere with your vision. At first, stronger lighting and eyeglasses can help you deal with cataracts. But if impaired vision interferes with your usual activities, you might need cataract surgery. Fortunately, cataract surgery is generally a safe, effective procedure.",
+			"visitFee": 1500,
+			"image": "https://bdeyehospital.com/media/images/images.jpg",
+			"key": 7
+		  },
+		  {
+			"serviceId": "8",
+			"serviceName": "Cataract",
+			"doctorName": "Dr. Willium Cambel",
+			"serviceDescription": "Cataract is most cataracts develop slowly and don't disturb your eyesight early on. But with time, cataracts will eventually interfere with your vision. At first, stronger lighting and eyeglasses can help you deal with cataracts. But if impaired vision interferes with your usual activities, you might need cataract surgery. Fortunately, cataract surgery is generally a safe, effective procedure.",
+			"visitFee": 2000,
+			"image": "https://bdeyehospital.com/media/images/7-Things-You-Need-to-Know-About-Cataract-Surgery.jpg",
+			"key": 8
+		  },
+		  {
+			"serviceId": "9",
+			"serviceName": "Dry Eye",
+			"doctorName": "Dr. Hamidur Rahman",
+			"serviceDescription": "Dry Eye is most cataracts develop slowly and don't disturb your eyesight early on. But with time, cataracts will eventually interfere with your vision. At first, stronger lighting and eyeglasses can help you deal with cataracts. But if impaired vision interferes with your usual activities, you might need cataract surgery. Fortunately, cataract surgery is generally a safe, effective procedure.",
+			"visitFee": 2000,
+			"image": "https://bdeyehospital.com/media/images/Dry_Eye.jpg",
+			"key": 9
+		  },
+		  {
+			"serviceId": "10",
+			"serviceName": "Vitreo Retina",
+			"doctorName": "Dr. Shofiqul Islam",
+			"serviceDescription": "Vitreo Retina is most cataracts develop slowly and don't disturb your eyesight early on. But with time, cataracts will eventually interfere with your vision. At first, stronger lighting and eyeglasses can help you deal with cataracts. But if impaired vision interferes with your usual activities, you might need cataract surgery. Fortunately, cataract surgery is generally a safe, effective procedure.",
+			"visitFee": 2000,
+			"image": "https://bdeyehospital.com/media/images/GettyImages-308783-003-56acdcd85f9b58b7d00ac8e8.jpg",
+			"key": 10
+		  }
+
+  ]
+}
